@@ -20,7 +20,7 @@
     * Le système de gestion des bases de données __MySQl__8
 
 ### POUR TESTER L'APPLICATION:
-   * git pull origin demo
+   * git pull origin develop
    * virtualenv env
    * env\Script\activate
    * pip install -r requirements.txt
